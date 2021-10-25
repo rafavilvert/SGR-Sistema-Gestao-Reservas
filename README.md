@@ -3,7 +3,7 @@
 ### Built With
 
 * Java
-* POO
+* OOP
 
 ## Project: 
 
